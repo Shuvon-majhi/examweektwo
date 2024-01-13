@@ -12,6 +12,8 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+
+  // count total sum here
   int get totalAmount {
     return Data.fold<int>(0,
         (total, product) => total + product['Price'] * product['count'] as int);
