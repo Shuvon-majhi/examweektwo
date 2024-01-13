@@ -6,8 +6,6 @@ List  Data = [
     'Size': 'L',
     'Price': 51,
     'count': 1,
-    'total': 51,
-
   },
   {
     'path': 'Asset/t-shirt.png',
@@ -16,7 +14,6 @@ List  Data = [
     'Size': 'L',
     'Price': 30,
     'count': 1,
-    'total': 30,
   },
   {
     'path': 'Asset/sport.png',
@@ -25,7 +22,6 @@ List  Data = [
     'Size': 'M',
     'Price': 43,
     'count': 1,
-    'total': 43,
   },
 ];
 
